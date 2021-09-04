@@ -3,7 +3,7 @@ title: Integrantes
 layout: page
 ---
 
-<h1>Integrantes</h1>
+<h2>Integrantes</h2>
 <br>
 
 * Esteban Manzano Reynoso
