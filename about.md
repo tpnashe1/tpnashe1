@@ -3,7 +3,7 @@ title: Integrantes
 layout: page
 ---
 
-<font face="Comic Sans MS"><h2>Este texto tiene otra tipografía</h2></font>
+<font face="Comic Sans MS">
 
 <h2>Integrantes</h2 font>
 <br>
@@ -15,3 +15,5 @@ layout: page
 * Juana Matheu
 
 * Juan Cruz Tucci
+
+</font>
