@@ -3,7 +3,9 @@ title: Integrantes
 layout: page
 ---
 
-<h2>Integrantes</h2>
+<font face="Comic Sans MS"><h2>Este texto tiene otra tipografía</h2></font>
+
+<h2>Integrantes</h2 font>
 <br>
 
 * Esteban Manzano Reynoso
