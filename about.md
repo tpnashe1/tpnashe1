@@ -5,7 +5,7 @@ layout: page
 
 <font face="Comic Sans MS">
 
-<h2>Integrantes</h2 font>
+<h2>Integrantes</h2>
 <br>
 
 * Esteban Manzano Reynoso
