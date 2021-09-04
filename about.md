@@ -10,13 +10,13 @@ layout: page
 
 <ul>
 
-<li>- Esteban Manzano Reynoso</li>
+<li>Esteban Manzano Reynoso</li>
 
-<li>- Dante Puddu</li>
+<li>Dante Puddu</li>
 
-<li>- Juana Matheu</li>
+<li>Juana Matheu</li>
 
-<li>- Juan Cruz Tucci</li>
+<li>Juan Cruz Tucci</li>
 
 </ul>
 
