@@ -5,15 +5,19 @@ layout: page
 
 <font face="Comic Sans MS">
 
-<h2>Integrantes</h2>
+<h3>Integrantes</h3>
 <br>
 
-* Esteban Manzano Reynoso
+<ul>
 
-* Dante Puddu
+<li>- Esteban Manzano Reynoso</li>
 
-* Juana Matheu
+<li>- Dante Puddu</li>
 
-* Juan Cruz Tucci
+<li>- Juana Matheu</li>
+
+<li>- Juan Cruz Tucci</li>
+
+</ul>
 
 </font>
