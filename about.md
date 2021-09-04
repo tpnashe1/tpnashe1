@@ -3,6 +3,8 @@ title: Integrantes
 layout: page
 ---
 
+<h2>Integrantes</h2>
+
 * Esteban Manzano Reynoso
 
 * Dante Puddu
