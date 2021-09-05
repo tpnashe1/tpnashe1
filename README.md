@@ -78,7 +78,7 @@ Leaf Jekyll theme uses two plugins by default.
 Here's the basic `_config.yml` file of this plugin.
 
 ```yaml
-title: Leaf Blog
+title: TP Final
 iconURL: assets/default-icon.png
 theme: jekyll-theme-leaf
 
